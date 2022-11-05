@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name = "jewer.py",
+    name = "windafarti.py",
     version = "0.1",
-    py_modules = ['jewer'],
-    url = "https://github.com/indraxz/jewer.git",
-    author = "indraxz",
+    py_modules = ['windafarti'],
+    url = "https://github.com/windafarti/windafarti.git",
+    author = "windafarti",
     install_requires = ["pyngrok"]
 )
