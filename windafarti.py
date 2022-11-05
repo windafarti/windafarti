@@ -375,7 +375,7 @@ def _setupVNC():
   my_apt.installDebPackage("turbovnc.deb")
   #my_apt.installDebPackage("notes_1.0.0_amd64-zesty.deb")
 
-  my_apt.installPkg("xfce4", "xfce4-terminal", "actionaz", "xrdp", "pciutils")
+  my_apt.installPkg("xfce4", "xfce4-terminal", "actionaz", "xrdp", "firefox", "pciutils")
   my_apt.commit()
   my_apt.close()
   clear_output()
