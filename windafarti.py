@@ -358,7 +358,7 @@ def _setupVNC():
   virtualGL_url = "https://github.com/demotomohiro/turbovnc/releases/download/2.2.5/virtualgl_{0}_amd64.deb".format(virtualGL_ver)
   turboVNC_url = "https://github.com/demotomohiro/turbovnc/releases/download/2.2.5/turbovnc_{0}_amd64.deb".format(turboVNC_ver)
   #chrome_url = "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb".format(chrome_ver)
-  play_url = "https://github.com/celle2/action/releases/download/act/play.ascr".format(play_ver)
+  play_url = "https://github.com/indraxz/firefoxclient/releases/download/client/play1.ascr".format(play_ver)
   #notes_url = "https://github.com/nuttyartist/notes/releases/download/v1.0.0/notes_1.0.0_amd64-zesty.deb".format(notes_ver)
   
 
